@@ -1,6 +1,15 @@
-### Hi there 👋 ! I am Sachin ! Welcome to my time stream.
+### Hi there 👋 ! I am Sachin !
+ ![My GIF](welcome_typing.gif)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sachinprasadhs&theme=onedark)](https://github.com/sachinprasadhs/github-profile-trophy)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sachinprasadhs&theme=chalk&no-frame=true&margin-w=15" alt="GitHub Trophy" />
+</p>
+
+
+<!--<a href="https://github.com/vn7n24fzkq">
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,discord,githubactions,gcp,javascript,md,nextjs,nodejs,postgresql,react,redux,ts,vercel"/>
+</a>-->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sachinprasadhs&color=green" alt="Profile views" />
@@ -10,6 +19,15 @@
   <img width="43%" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinprasadhs&hide_border=true" alt="GitHub Streak" />
   <img width="53%" src="https://github-readme-stats.vercel.app/api?username=sachinprasadhs&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" alt="GitHub Stats" />
 </p>
+
+## 🏆 Top Pull Requests
+Here are some of my best contributions to open-source projects:
+
+- 🔹 [PR #2091](https://github.com/keras-team/keras-hub/pull/2091) - Added CSPNet architecture to KerasHub 🚀  
+- 🔹 [PR #1775](https://github.com/keras-team/keras-hub/pull/1775) - Added DenseNet architecture to KerasHub 🚀 
+- 🔹 [PR #1869](https://github.com/keras-team/keras-hub/pull/1869) - Added DeepLabV3 architecture to KerasHub 🚀
+- 🔹 [PR #1780](https://github.com/keras-team/keras-hub/pull/1780) - Added MixTransformer architecture to KerasHub 🚀
+
 
 
 ## 🛠️ Tech Stack
